@@ -1,7 +1,7 @@
 //import { Inter } from "next/font/google";
 import "./global.css";
 import Navbar from "@/components/navbar/Navbar";
-import Footer from "@/components/footer/footer";
+import Footer from "@/components/footer/Footer";
 
 //const inter = Inter({ susbsets: ["latin"] });
 
